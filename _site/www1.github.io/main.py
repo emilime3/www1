@@ -4,7 +4,6 @@ import os
 from googlesearch import search
 import subprocess
 
-#e
 def process_page(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')

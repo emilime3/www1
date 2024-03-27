@@ -1,0 +1,10 @@
+title: Moja Strona na GitHub Pages
+email: twojemail@example.com
+description: >- # to jest opis strony
+  Witaj na mojej niesamowitej stronie na GitHub Pages, zbudowanej z Jekylla.
+baseurl: "" # pusta wartość dla projektów nie będących projektami typu 'project site'
+url: "http://twojanazwauzytkownika.github.io" # Adres Twojej strony (bez slash na końcu)
+
+# Budowanie strony
+markdown: kramdown
+theme: minima # lub inny temat, który chcesz użyć
